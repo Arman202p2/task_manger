@@ -1,12 +1,14 @@
 # Task Tracker CLI
 
-A command-line interface (CLI) tool to track tasks, built with Python.
-This project is part of the roadmap.sh developer challenges.
+This is a solution to the **[Task Tracker](https://roadmap.sh/projects/task-tracker)** challenge on roadmap.sh.
+
+## Project URL
+https://roadmap.sh/projects/task-tracker
 
 ## Features
 - Add, Update, and Delete tasks
 - Mark tasks as In-Progress or Done
-- List all tasks or filter by status
+- List all tasks or filter by status (`done`, `todo`, `in-progress`)
 - Data persists in a local JSON file
 
 ## How to Run
